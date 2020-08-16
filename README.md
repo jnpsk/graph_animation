@@ -3,6 +3,8 @@ This app draws animated graph using input data. The process of
 animation drawing can be influenced by various parameters. See
 included man pages `man -l ./draw_man.1` for further info.
 
+See [exmaple output](https://github.com/jnpsk/graph_animation/raw/master/output/out_4/anim_long.mp4)
+
 ## Project structure
 
 ```
